@@ -1,138 +1,138 @@
 # GamesMadeByMe
-Tutaj można znaleźć linki do wszelkich gier jakie (współ)tworzyłem (lub wciąż (współ)tworzę?). Tytuł gry to link do odpowiedniego repo.
+Here you can find links to any games that I (co-)created (or I'm still (co-)creating?). Every title of a game is a link to specific repo.
 
-# [Szachy](https://github.com/OftenDeadKanji/Studies/tree/master/PK2%20-%20laboratoria%20i%20projekt)
+# [Chess](https://github.com/OftenDeadKanji/Studies/tree/master/PK2%20-%20laboratoria%20i%20projekt)
 
-## Opis: 
-Typowa gra w szachy, wersja tylko dla dwóch graczy (bez komputerowego przeciwnika).
+## Description: 
+Just a simple chess game, only for two human players (no AI).
 
-## Platforma:
+## Platform:
 PC - Windows
 
-## Język: 
+## Language: 
 C
 
-## Silnik / biblioteka graficzna: 
+## Engine / graphics library: 
 Allegro5
 
-## Komentarz
-Pierwsza "gra komputerowa" jaką stworzyłem.
+## Comment
+My first "video game" I've ever made.
 
 # [BoulderDash](https://github.com/OftenDeadKanji/Studies/tree/master/PK3%20-%20laboratoria%20i%20projekt)
 
-## Opis
-Gra inspirowana BoulderDash'em. Główne zasady rozgrywki to zbieranie diamentów czy unikanie spadających obiektów.
+## Description:
+Game inspired by the BoulderDash game. Main gameplay aspects are: collecting diamond and avoiding falling objects.
 
-## Platforma:
+## Platform:
 PC - Windows
 
-## Język: 
+## Language: 
 C++
 
-## Silnik / biblioteka graficzna: 
+## Engine / graphics library:
 Allegro5
 
-## Komentarz
-Druga gra komputerowa jaką stworzyłem. Wydaje mi się, że da się w to nawet <b>grać</b> :)
+## Comment
+The second game I've ever made. I think that you can really <b>play</b> it :)
 
-# [Nienazwana gra RPG](https://github.com/OftenDeadKanji/Studies/tree/master/PK4%20-%20projekt)
+# [Unnamed RPG game](https://github.com/OftenDeadKanji/Studies/tree/master/PK4%20-%20projekt)
 
-## Opis
-Gra typu RPG. Gracz ma możliwość przemieszcania się po stworzonych mapach, walki z przeciwnikami czy handlu z kupcami.
+## Description:
+RPG type game. Player can move around the created maps, fight with enemies and trade with merchants.
 
-## Platforma:
+## Platform:
 PC - Windows
 
-## Język: 
+## Language: 
 C++
 
-## Silnik / biblioteka graficzna: 
+## Engine / graphics library:
 Allegro5
 
-## Komentarz
-Trzecia gra komputerowa jaką stworzyłem. Niestety zaimplementowane mechaniki nie oferują zbytnio zabawy. Niemniej jednak projekt ten został przeze mnie o wiele lepiej stworzony pod względem kodu (bardziej obiektowo). Stanowi to mocne polepszenie względem BoulderDash'a.
+## Comment
+The third game I've ever made. Unfortunately, there's not much fun playing it. Nevertheless, this project was so much better created in terms of code (more object-oriented). It is a big improvement when compared to BoulderDash.
 
-# [Nienazwana gra skradankowa](https://github.com/OftenDeadKanji/Studies/tree/master/PwAG%20-%20laboratorium%20i%20projekt)
+# [Unnamed stealth game](https://github.com/OftenDeadKanji/Studies/tree/master/PwAG%20-%20laboratorium%20i%20projekt)
 
-## Opis
-"Skradankowa" gra, w której gracz musi odnaleźć wyjście z labiryntu i nie dać się złapać przeciwnikom.
+## Description:
+"Stealth" game, in which the player needs to find a way out of the labirynth and avoid being caught by enemies.
 
-## Platforma:
+## Platform:
 PC - Windows
 
-## Język: 
+## Language: 
 C++
 
-## Silnik / biblioteka graficzna: 
-Własny - OpenGL
+## Engine / graphics library: 
+Custom - OpenGL
 
-## Komentarz
-Projekt (który to współtworzyłem) polegał przede wszystkim na implementacji różnych zagadnień z grafiki komputerowej z wykorzystaniem niskopoziomowego API graficznego (tutaj - openGL). Do moich zadań należało przede wszystkim opracowanie oświetlenia. Zaimplementowane zostały: model Phonga dla świateł punktowych, technika OIT, a także systemy cząsteczkowe z wykorzystaniem shadera geometrii.
+## Comment
+The project (that I co-created) primarly consisted in implementing various computer graphics techniques by using low-level API (here - OpenGL). I was mostly responsible for lighting. I implemented: Phong lighting (for point lights) and particle systems using geometry shader.
 
-# [Nienazwana gra zręcznościowa](https://github.com/OftenDeadKanji/Studies/tree/master/ZTPGK%20-%20laboratorium)
+# [Unnamed arcade game](https://github.com/OftenDeadKanji/Studies/tree/master/ZTPGK%20-%20laboratorium)
 
-## Opis
-Gra polega na kontrolowaniu kuli za pomocą przycisków (które to nadają rotację kuli) i dotarciu nią na koniec labiryntu. 
+## Description:
+The game consists in controlling a ball with buttons (that give rotation to ball) and getting it to the end of the labirynth.
 
-## Platforma:
-PC - testowano tylko na Windows
+## Platform:
+PC - tested only on Windows
 
-## Język: 
+## Language: 
 C# (.NET)
 
-## Silnik / biblioteka graficzna: 
+## Engine / graphics library:
 Unity
 
-## Komentarz
-Współtworzona gra.
+## Comment
+Co-created game.
 
 # [Heroes of Might and Magic](https://github.com/OftenDeadKanji/Studies/tree/master/.NET)
 
-## Opis
-Gra inspirowana była serią Heroes of Might and Magic. Kluczowymi elementami rozgrywki są: eksploracja i walka w trybie turowym, rozwój miast, zbieranie surowców.
+## Description:
+Game inspired by the Heroes of Might and Magic series. Main gameplay elements are: turn-based exploration and combat, upgrading cities (buildings), gathering resources.
 
-## Platforma:
-PC - testowano tylko na Windows
+## Platform:
+PC - tested only on Windows
 
-## Język: 
+## Language:  
 C# (.NET)
 
-## Silnik / biblioteka graficzna: 
+## Engine / graphics library: 
 Unity
 
-## Komentarz
-Pierwsza "większa" gra, którą stworzyłem samemu. Gdyby poświęcić trochę więcej czasu (i zająć się elementami nie tylko programistycznymi) to może wyszłaby z tego całkiem niezła gierka :)
+## Comment
+My first "bigger" game that I created by myself. If a little more time had been spent (and not only on programming elements) it would have been a pretty nice game :)
 
 # [In Need Of Light](https://github.com/OftenDeadKanji/Studies/tree/master/PGK%20-%20laboratorium/InNeedOfLight)
 
-## Opis
-Gra 2D typu survival. Zadaniem gracza jest zbieranie surowców i rozwój osady, walka z demonami podczas nocy.
+## Description:
+2D survival game. A player's task is to gather resources and fight with demons during night.
 
-## Platforma:
-PC - testowano tylko na Windows
+## Platform:
+PC - tested only on Windows
 
-## Język: 
+## Language: 
 C# (.NET)
 
-## Silnik / biblioteka graficzna: 
+## Engine / graphics library:
 Unity
 
-## Komentarz
-Jest to tylko <b>prototyp</b> gry, stworzone w ramach zajęć laboratoryjnych.
+## Comment
+It's just a <b>prototype</b>, created for a class at university.
 
 # [In Need Of Resurfacing](https://github.com/OftenDeadKanji/Studies/tree/master/PGK%20-%20laboratorium/InNeedOfResurfacing)
 
-## Opis
-Gra powstała jako połączenie wspomnianej wcześniej gry In Need Of Light oraz gry Geodial (nie mojego autorstwa). Celem gracza jest zbieranie surowców, rozwój osady. Gra polega na eksploracji w czasie rzeczywistym oraz walce turowej.
+## Description:
+This games was created as a combination of In Need Of Light and Geodial (this game I didn't created). The player's objective is to collect resources, develop the settlement. The game consists of real-time exploration and turn-based combat.
 
-## Platforma:
-PC - testowano tylko na Windows
+## Platform:
+PC - tested only on Windows
 
-## Język: 
+## Language: 
 C# (.NET)
 
-## Silnik / biblioteka graficzna: 
+## Engine / graphics library: 
 Unity
 
-## Komentarz
-Jest to tylko <b>prototyp</b> gry, stworzone w ramach zajęć laboratoryjnych.
+## Comment
+It's just a <b>prototype</b>, created for a class at university.
