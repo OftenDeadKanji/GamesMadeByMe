@@ -1,6 +1,10 @@
 # GamesMadeByMe
 Here you can find links to any games that I (co-)created (or I'm still (co-)creating?). Every title of a game is a link to specific repo.
 
+<details>
+
+<summary>Chess</summary>
+
 # [Chess](https://github.com/OftenDeadKanji/Studies/tree/master/PK2%20-%20laboratoria%20i%20projekt)
 
 ## Description: 
@@ -17,6 +21,12 @@ Allegro5
 
 ## Comment
 My first "video game" I've ever made.
+
+</details>
+
+<details>
+
+<summary>BoulderDash</summary>
 
 # [BoulderDash](https://github.com/OftenDeadKanji/Studies/tree/master/PK3%20-%20laboratoria%20i%20projekt)
 
@@ -35,6 +45,12 @@ Allegro5
 ## Comment
 The second game I've ever made. I think that you can really <b>play</b> it :)
 
+</details>
+
+<details>
+
+<summary>Unnamed RPG game</summary>
+
 # [Unnamed RPG game](https://github.com/OftenDeadKanji/Studies/tree/master/PK4%20-%20projekt)
 
 ## Description:
@@ -51,6 +67,12 @@ Allegro5
 
 ## Comment
 The third game I've ever made. Unfortunately, there's not much fun playing it. Nevertheless, this project was so much better created in terms of code (more object-oriented). It is a big improvement when compared to BoulderDash.
+
+</details>
+
+<details>
+
+<summary>Unnamed stealth game</summary>
 
 # [Unnamed stealth game](https://github.com/OftenDeadKanji/Studies/tree/master/PwAG%20-%20laboratorium%20i%20projekt)
 
@@ -69,6 +91,12 @@ Custom - OpenGL
 ## Comment
 The project (that I co-created) primarly consisted in implementing various computer graphics techniques by using low-level API (here - OpenGL). I was mostly responsible for lighting. I implemented: Phong lighting (for point lights) and particle systems using geometry shader.
 
+</details>
+
+<details>
+
+<summary>Unnamed 'arcade' game</summary>
+
 # [Unnamed arcade game](https://github.com/OftenDeadKanji/Studies/tree/master/ZTPGK%20-%20laboratorium)
 
 ## Description:
@@ -85,6 +113,12 @@ Unity
 
 ## Comment
 Co-created game.
+
+</details>
+
+<details>
+
+<summary>Heroes of Might and Magic</summary>
 
 # [Heroes of Might and Magic](https://github.com/OftenDeadKanji/Studies/tree/master/.NET)
 
@@ -103,6 +137,12 @@ Unity
 ## Comment
 My first "bigger" game that I created by myself. If a little more time had been spent (and not only on programming elements) it would have been a pretty nice game :)
 
+</details>
+
+<details>
+
+<summary>In Need Of Light</summary>
+
 # [In Need Of Light](https://github.com/OftenDeadKanji/Studies/tree/master/PGK%20-%20laboratorium/InNeedOfLight)
 
 ## Description:
@@ -120,6 +160,12 @@ Unity
 ## Comment
 It's just a <b>prototype</b>, created for a class at university.
 
+</details>
+
+<details>
+
+<summary>In Need Of Resurfacing</summary>
+
 # [In Need Of Resurfacing](https://github.com/OftenDeadKanji/Studies/tree/master/PGK%20-%20laboratorium/InNeedOfResurfacing)
 
 ## Description:
@@ -136,3 +182,5 @@ Unity
 
 ## Comment
 It's just a <b>prototype</b>, created for a class at university.
+</details>
+
