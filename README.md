@@ -3,7 +3,7 @@ Here you can find links to any games that I (co-)created (or I'm still (co-)crea
 
 <details>
 
-<summary>Chess</summary>
+<summary>Chess - C, Allegro5</summary>
 
 # [Chess](https://github.com/OftenDeadKanji/Studies/tree/master/PK2%20-%20laboratoria%20i%20projekt)
 
@@ -26,7 +26,7 @@ My first "video game" I've ever made.
 
 <details>
 
-<summary>BoulderDash</summary>
+<summary>BoulderDash - C++, Allegro5</summary>
 
 # [BoulderDash](https://github.com/OftenDeadKanji/Studies/tree/master/PK3%20-%20laboratoria%20i%20projekt)
 
@@ -49,7 +49,7 @@ The second game I've ever made. I think that you can really <b>play</b> it :)
 
 <details>
 
-<summary>Unnamed RPG game</summary>
+<summary>Unnamed RPG game - C++, Allegro5</summary>
 
 # [Unnamed RPG game](https://github.com/OftenDeadKanji/Studies/tree/master/PK4%20-%20projekt)
 
@@ -72,7 +72,7 @@ The third game I've ever made. Unfortunately, there's not much fun playing it. N
 
 <details>
 
-<summary>Unnamed stealth game</summary>
+<summary>Unnamed stealth game - C++, OpenGL</summary>
 
 # [Unnamed stealth game](https://github.com/OftenDeadKanji/Studies/tree/master/PwAG%20-%20laboratorium%20i%20projekt)
 
@@ -95,7 +95,7 @@ The project (that I co-created) primarly consisted in implementing various compu
 
 <details>
 
-<summary>Unnamed 'arcade' game</summary>
+<summary>Unnamed 'arcade' game - Unity</summary>
 
 # [Unnamed arcade game](https://github.com/OftenDeadKanji/Studies/tree/master/ZTPGK%20-%20laboratorium)
 
@@ -118,7 +118,7 @@ Co-created game.
 
 <details>
 
-<summary>Heroes of Might and Magic</summary>
+<summary>Heroes of Might and Magic - Unity</summary>
 
 # [Heroes of Might and Magic](https://github.com/OftenDeadKanji/Studies/tree/master/.NET)
 
@@ -141,7 +141,7 @@ My first "bigger" game that I created by myself. If a little more time had been 
 
 <details>
 
-<summary>In Need Of Light</summary>
+<summary>In Need Of Light - Unity</summary>
 
 # [In Need Of Light](https://github.com/OftenDeadKanji/Studies/tree/master/PGK%20-%20laboratorium/InNeedOfLight)
 
@@ -164,7 +164,7 @@ It's just a <b>prototype</b>, created for a class at university.
 
 <details>
 
-<summary>In Need Of Resurfacing</summary>
+<summary>In Need Of Resurfacing - Unity</summary>
 
 # [In Need Of Resurfacing](https://github.com/OftenDeadKanji/Studies/tree/master/PGK%20-%20laboratorium/InNeedOfResurfacing)
 
